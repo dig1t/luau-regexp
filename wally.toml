@@ -1,0 +1,10 @@
+[package]
+name = "dig1t/luau-regexp"
+version = "0.2.1"
+description = "Modules and Libraries for development in Roblox"
+license = "Apache-2.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+include = ["src", "default.project.json"]
+exclude = ["src/**/*.spec.luau", "src/**/wally.toml", "**/__tests/**"]

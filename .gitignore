@@ -1,5 +1,5 @@
 Packages/*
-!Packages/.robloxrc
+!Packages/.luaurc
 # let selene auto-generate latest
 roblox.toml
 rotriever.lock
